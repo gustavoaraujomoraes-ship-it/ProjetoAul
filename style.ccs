@@ -1,4 +1,11 @@
 header{
+   background-color: #C69d01;
+   color: #150749;
+   text-align: center;
+}
 
-    
+main{
+   background-color: #150749;
+   color: #C69d01
+   text-align: center;
 }
