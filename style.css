@@ -9,3 +9,10 @@ main{
    color: #C69d01
    text-align: center;
 }
+
+p   {
+   padding:20px;
+   border:2px solid red;
+   margin: 30px;
+   background-color: azure;
+} 
